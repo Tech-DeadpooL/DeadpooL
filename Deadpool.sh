@@ -16,7 +16,7 @@ echo "    ███▄███░░▀░▀░░░░░▀▀░"
 echo
         echo " +--------------------------+"
         echo " |                          |"
-        echo " |      HACK GMAIL RS       |"
+        echo " |    DEADPOOL  GMAIL       |"
         echo " |                          |"
         echo " +--------------------------+"
         echo
