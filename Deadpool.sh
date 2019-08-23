@@ -12,8 +12,14 @@ echo "    ─▄▀▀▀▄──────────────"
 echo "    ─█───█──────────────"
 echo "    ███████─────────▄▀▀▄"
 echo "    ██───██░░█▀█▀▀▀▀█░░█"
-echo "    ███▄███░░▀░▀░░░░░▀▀░"
-echo
+echo " 
+echo " ___       ___       ___       ___       ___       ___
+echo "   /\__\     /\  \     /\  \     /\__\     /\  \     /\__\
+echo "  /:/\__\   /::\  \   /::\  \   /::L_L_   /::\  \   /:| _|_
+echo " /:/:/\__\ /::\:\__\ /::\:\__\ /:/L:\__\ /::\:\__\ /::|/\__\
+echo " \::/:/  / \:\:\/  / \:\:\/  / \/_/:/  / \/\::/  / \/|::/  /
+echo "  \::/  /   \:\/  /   \:\/  /    /:/  /    /:/  /    |:/  /
+echo "   \/__/     \/__/     \/__/     \/__/     \/__/     \/__/
         echo " +--------------------------+"
         echo " |                          |"
         echo " |    DEADPOOL  GMAIL       |"
@@ -23,25 +29,25 @@ echo
         echo -e "\e[1;36m REAL STRATEGY - DOMINANDO\e[0m"
 echo
 #LISTA DE OPCIONES
-        echo -e "\e[1;33m[01]\e[1;32m Instalar hack gmail\e[0m"
+        echo -e "\e[1;33m[01]\e[1;32m Instal hack gmail\e[0m"
 echo
-        echo -e "\e[1;33m[02]\e[1;32m Informacion de uso\e[0m"
+        echo -e "\e[1;33m[02]\e[1;32m Imformasi pengguna\e[0m"
 echo
-        echo -e "\e[1;33m[03]\e[1;32m Mas Herramientas\e[0m"
+        echo -e "\e[1;33m[03]\e[1;32m Lebih Banyak Alat\e[0m"
 echo
-        echo -e "\e[1;33m[04]\e[1;32m Creditos al creador\e[0m"
+        echo -e "\e[1;33m[04]\e[1;32m Cereator\e[0m"
 echo
-        echo -e "\e[1;33m[05]\e[1;32m Crear lista de contraseñas\e[0m"
+        echo -e "\e[1;33m[05]\e[1;32m Buat daftar kata sandi\e[0m"
 echo
-        echo -e "\e[1;33m[06]\e[1;32m Ver lista de contraseñas\e[0m"
+        echo -e "\e[1;33m[06]\e[1;32m Lihat daftar kata sandi\e[0m"
 echo
-       echo -e "\e[1;33m[07]\e[1;32m Ejecutar hack gmail\e[0m"
+       echo -e "\e[1;33m[07]\e[1;32m Jalankan Hack Gmail\e[0m"
 echo
-       echo -e "\e[1;33m[08]\e[1;32m Salir del menu\e[0m"
+       echo -e "\e[1;33m[08]\e[1;32m Keluar Menu\e[0m"
 echo
         read -p "Choice: " m_choice
         echo
-# OPCIONES DEL MENU 
+# MENU 
         case "$m_choice" in
             1) figlet Instalando
                  figlet Tools
@@ -49,7 +55,7 @@ echo
               echo -e "\e[1;32m===============================================\e[0m"
                 figlet Hack Gmail
              echo -e "\e[1;32m================================================\e[0m"
-             echo -e "\e[1;31m HERRAMIENTA INSTALADA\e[0m"
+             echo -e "\e[1;31m ALAT DI INSTALL\e[0m"
 echo
              sleep 4
 clear
@@ -127,7 +133,7 @@ exit 0
              8) exit 0
 # FINAL DEL MENU RS
              ;;
-            *)  echo -e "\e[1;31mNo es una opcion valida\e[0m"
+            *)  echo -e "\e[1;31mIni bukan opsi yang valid\e[0m"
 sleep 2
                 echo
                 ;;
@@ -143,11 +149,11 @@ function sub_menu()
         figlet SUPER 
         figlet TOOLS
         echo
-        echo -e "\e[1;33m[01]\e[1;32m Instalar Htop\e[0m"
+        echo -e "\e[1;33m[01]\e[1;32m Instal Htop\e[0m"
 echo
-        echo -e "\e[1;33m[02]\e[1;32m Instalar Nmap\e[0m"
+        echo -e "\e[1;33m[02]\e[1;32m Instal Nmap\e[0m"
 echo
-        echo -e "\e[1;33m[03]\e[1;32m Volver al menu anterior\e[0m"
+        echo -e "\e[1;33m[03]\e[1;32m Kembali ke menu sebelumnya\e[0m"
 echo
         read -p "Choice: " s_choice
         echo
@@ -161,7 +167,7 @@ sleep 2
                 echo "==============================================="
                 figlet HTOP
              echo "================================================"
-                 echo -e "\e[1;31mHERRAMIENTA INSTALADA\e[0m"
+                 echo -e "\e[1;31mALAT DIINSTAL\e[0m"
 sleep 3
 echo
 clear
@@ -174,13 +180,13 @@ sleep 2
                 echo "==============================================="
                 figlet NMAP
              echo "================================================"
-                 echo -e "\e[1;31mHERRAMIENTA INSTALADA\e[0m"
+                 echo -e "\e[1;31mALAT DIINSTAL\e[0m"
 echo
 clear
                 ;;
             3)  main_menu
                 ;;
-            *)  echo -e "\e[1;31mNo es una opcion valida\e[0m"
+            *)  echo -e "\e[1;31mIni bukan opsi yang valid\e[0m"
 sleep 2
                 echo
                 ;;
